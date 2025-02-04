@@ -32,7 +32,6 @@ KTH course DD2415 in safe robot planning & control; covers the fundamentals of r
 - **Nested depth-first search (NDFS)** for prefixes & suffixes  
 
 <p align="left">
-  <video width="350px" controls>
-    <source src="Videos/Tut3/suffix_ndfs.mp4" type="video/mp4">
-  </video>
-</p>  
+  <img src="Images/Tut3/Suffix_Lasso.png" width="300px">
+  <img src="Images/Tut3/Suffix_NDFS.png" width="300px">
+</p>   
