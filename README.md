@@ -1,5 +1,5 @@
 # **Safe Robot Control & Planning**  
-
+KTH course DD2415 in safe robot planning & control; covers the fundamentals of robotic system safety, including safety analysis, reachability, and control techniques such as invariant sets, potential fields, and control barrier functions. It explores fail-safe and risk-aware planning, advanced motion planning algorithms, task and motion planning integration, and formal methods using temporal logics for correct-by-design control. Skeleton code src: https://github.com/KTH-RPL-Planiacs/DD2415_labs
 ## **0. Drone Dynamics**  
 - **Continuous** and **discrete** time dynamics
 <p align="left">
